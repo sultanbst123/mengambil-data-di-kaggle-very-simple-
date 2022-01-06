@@ -8,4 +8,5 @@ silahkan ikuti petunjuk
 - buat file baru untuk men-extract zip
 - gunakan 
 
+## note: jika file besar, mungkin membutuhkan waktu sedikit lama, bersabar 👌
 Good luck 😁
