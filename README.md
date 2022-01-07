@@ -5,8 +5,9 @@ silahkan ikuti petunjuk
 
 - ambil/download token api di kaggle account 
 - download dataset (zip default)
-- buat file baru untuk men-extract zip
+- buat file baru untuk men-extract file zip
 - gunakan 
 
-## note: jika file besar, mungkin membutuhkan waktu sedikit lama, bersabar 👌
+note: jika file besar, mungkin membutuhkan waktu sedikit lama, bersabar 👌
+
 Good luck 😁
