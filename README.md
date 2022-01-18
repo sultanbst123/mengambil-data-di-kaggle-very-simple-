@@ -8,6 +8,7 @@ silahkan ikuti petunjuk
 - buat file baru untuk men-extract file zip
 - gunakan 
 
-note: jika file besar, mungkin membutuhkan waktu sedikit lama, bersabar 👌
-
+note: 
+- jika file besar, mungkin membutuhkan waktu sedikit lama, bersabar 👌
+- Jangan lupa liat Disk Colab 
 Good luck 😁
